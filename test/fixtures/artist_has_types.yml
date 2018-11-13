@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ah_description: MyString
+  Artist: one
+  ArtistType: MyString
+  belongs_to: MyString
+
+two:
+  ah_description: MyString
+  Artist: two
+  ArtistType: MyString
+  belongs_to: MyString

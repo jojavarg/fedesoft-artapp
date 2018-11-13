@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cr_description: 
+  cr_date: 2018-11-12 20:48:23
+  Artist: one
+
+two:
+  cr_description: 
+  cr_date: 2018-11-12 20:48:23
+  Artist: two

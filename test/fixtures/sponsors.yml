@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sp_name: 
+  sp_address: 
+  sp_phone: 
+  sp_email: 
+  sp_contact: 
+  sp_nit: MyString
+  User: one
+
+two:
+  sp_name: 
+  sp_address: 
+  sp_phone: 
+  sp_email: 
+  sp_contact: 
+  sp_nit: MyString
+  User: two

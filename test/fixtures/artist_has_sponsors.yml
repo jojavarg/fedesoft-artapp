@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  as_description: MyString
+  Artist: one
+  Sponsor: one
+
+two:
+  as_description: MyString
+  Artist: two
+  Sponsor: two
